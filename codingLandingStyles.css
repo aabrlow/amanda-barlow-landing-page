@@ -1,0 +1,132 @@
+body {
+    background-image: url(https://miro.medium.com/max/3000/1*3QBN7WL4h39wR_wN6pwAPw.jpeg);
+}
+.container-fluid {
+    background-color: rgba(255, 255, 255, 0.788);
+}
+
+.wrapper {
+    
+    position: relative;
+}
+
+h1 {
+    color: rgb(14, 13, 13);
+    display: flex;
+    font-family: Lobster;
+    justify-content: end;
+    margin-top: 10px;
+}
+
+.header img {
+  
+       height: 75px;
+       width: 75px;
+      
+}
+
+header {
+    position: fixed;
+    top: 0;
+    min-height: 75px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+}
+a {
+    color: #000;
+    text-decoration: none;
+  }
+
+.top-pic {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 5px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.services {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 5px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }
+  .ml3 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+}
+.ml3 .letter {
+    display: inline-block;
+    line-height: 1em;
+}
+
+.info {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.pricing {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 90px;
+    margin-bottom: 15px;
+}
+
+.card {
+    min-height: 50px;
+    min-width: 50px;
+}
+
+.title {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.btn {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 5px;
+    min-width: 20px;
+}
+
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+
+
+.end {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
